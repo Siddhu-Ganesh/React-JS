@@ -1,0 +1,23 @@
+.border{
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    margin: 40px;
+}
+.box{
+    background-color:#3486eb ;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    color: white;
+    text-align: center;
+    
+    
+}
+.box:hover {
+    background-color: aqua;
+    border-radius: 20%;
+    overflow: hidden;
+    color: black;
+    cursor: pointer;
+
+}

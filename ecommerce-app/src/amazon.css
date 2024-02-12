@@ -1,0 +1,13 @@
+.container{
+    background-color: black;
+    /* overflow: hidden; */
+}
+.mx-4{
+    transition: all 0.3s ease;
+    transform-origin: center;
+}
+.mx-4:hover{
+    cursor: pointer;
+    transform: scale(1.3);
+}
+
